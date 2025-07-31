@@ -65,7 +65,8 @@ The agent successfully learned to **adapt to market conditions** and make **prof
 ---
 ## 📄 Project Report & Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XgHF7jBear0og38RSdF2Ll_S0yp2LqhM?usp=sharing)
-[![View FULL Code and Output](https://img.shields.io/badge/View%20Report-PDF-blue)](https://github.com/Jedin16Styris/Reinforcement-Learning/blob/main/Reinforcement%20Learning%20in%20Trading%20CnO.pdf)
+[![View Report](https://img.shields.io/badge/View%20Report-PDF-blue)](https://github.com/Jedin16Styris/Reinforcement-Learning/blob/main/Reinforcement%20learning%20In%20trading%20CnO.pdf)
+
  
 
 ---
