@@ -63,7 +63,7 @@ The agent successfully learned to **adapt to market conditions** and make **prof
 * Adapting the system for **real-time market data** 🚀  
 
 ---
-## 📄 Project Report & Colab
+## 📄 Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XgHF7jBear0og38RSdF2Ll_S0yp2LqhM?usp=sharing)
 
 ---
